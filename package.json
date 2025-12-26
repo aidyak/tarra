@@ -15,7 +15,8 @@
     "@hono/node-server": "^1.19.7",
     "hono": "^4.11.3",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "secretlint": "^11.2.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
