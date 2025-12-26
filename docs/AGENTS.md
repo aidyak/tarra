@@ -85,4 +85,4 @@ curl http://localhost:5173/api/health     # Vite経由（ポートは変動あ�
 - Edge/Workers対応（Cloudflare等）やFunctions（Vercel/Netlify）への移行。
 
 ## 必ずやること
-- 大きめの差分が発生するときはdocs配下にやったことを記録すること
+- 差分の大小に関わらず、要点をdocs配下に記録すること（例: `docs/changes/YYYY-MM-DD.md`）。
